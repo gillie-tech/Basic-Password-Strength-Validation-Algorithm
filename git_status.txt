@@ -1,0 +1,22 @@
+On branch main
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+	new file:   js_package/index.js
+	new file:   js_package/package.json
+	new file:   js_package/test.js
+	new file:   python_package/password_validator/__init__.py
+	new file:   python_package/password_validator/__pycache__/__init__.cpython-314.pyc
+	new file:   python_package/password_validator/__pycache__/validator.cpython-314.pyc
+	new file:   python_package/password_validator/validator.py
+	new file:   python_package/setup.py
+	new file:   python_package/tests.py
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.hintrc
+	git_status.txt
+	ui/
+

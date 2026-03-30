@@ -1,0 +1,2 @@
+origin	https://github.com/gillie-tech/Basic-Password-Strength-Validation-Algorithm.git (fetch)
+origin	https://github.com/gillie-tech/Basic-Password-Strength-Validation-Algorithm.git (push)

@@ -1,0 +1,11 @@
+{
+  "name": "basic-password-validator",
+  "version": "1.0.0",
+  "description": "A standalone heuristic-based password strength algorithm to mitigate ATO attacks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
